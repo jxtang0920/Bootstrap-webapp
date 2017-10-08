@@ -8,3 +8,4 @@ The following is a screenshot of my webpage:
 ![image](https://github.com/jxtang0920/EC601HW2-bootstrap/blob/master/project%20picture.JPG)
 
 10/07:Finished the tutorial of Friendly chat
+Hosting page:https://friendlychat-a2c8a.firebaseapp.com/
