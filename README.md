@@ -1,4 +1,4 @@
-# EC601HW2-bootstrap
+# Bootstrap_App
 Boston University College of Engineering - EC601 HW2 - Create a Bootstrap Web Application
 
 This is a project using a Bootstrap web application to display my resume.
